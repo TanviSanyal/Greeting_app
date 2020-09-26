@@ -1,0 +1,25 @@
+body{
+  margin:0;
+  padding:0%;
+  box-sizing: border-box;
+  background-color: aquamarine;
+}
+
+div{
+  height:100vh;
+  width:210vh;
+  margin-top: -30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  padding:20px 20px;
+  background-color: rgb(250, 219, 135);
+  color: #fa9191;
+  border-radius: 20PX;
+}
+span
+{
+  color: #eb6383;
+}
